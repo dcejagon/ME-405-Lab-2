@@ -26,13 +26,13 @@ The plot below shows the system response to our first Kp input. We were then
 able to analyze the response and choose a more suitable Kp value. 
 ![System Response to initial Kp=0.05](https://github.com/dcejagon/ME-405-Lab-2/blob/d54a0978ac92da9d058418d99555162defccd543/Lab2_kp.05.png)
 System Response to initial Kp=0.05
-### Next Kp
-The plot below shows our system response to a tuned Kp. This value of Kp causes
-the system to be unstable and oscillate about our set point. 
-![System Response to Kp=INSERT FIRST KP HERE](https://github.com/dcejagon/ME-405-Lab-2/blob/d54a0978ac92da9d058418d99555162defccd543/Lab2_kp.1.png)
-System Response to Kp=.1
 ### Tuned Kp
 The plot below shows our system response to a Kp value that we found suitable 
 for our system. 
+![System Response to Kp=INSERT FIRST KP HERE](https://github.com/dcejagon/ME-405-Lab-2/blob/d54a0978ac92da9d058418d99555162defccd543/Lab2_kp.1.png)
+System Response to Kp=.1
+### Unstable Kp
+The plot below shows our system response to a tuned Kp. This value of Kp causes
+the system to be unstable and oscillate about our set point. 
 ![System Response to Kp=INSERT FIRST KP HERE](https://github.com/dcejagon/ME-405-Lab-2/blob/d54a0978ac92da9d058418d99555162defccd543/Lab2_kp.5.png)
 System Response to Kp=.5
